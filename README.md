@@ -3,11 +3,11 @@ Repository for Getting and Cleaning Data Project Assignment
 
 This repository contains the R code and files related to the Project 
 Assignment for Data Science Course, Getting and Cleaning Data. There are
-four deliverables for this assignment:
-1. run_analysis.R > the R script that cleans data resulting in tidy data
-2. tidy.txt > the tidy data file
-3. codebook.md > the codebook describing the variables, code and analysis
-4. README.md > this readme file
+four deliverables for this project:
+1) run_analysis.R > the R script that cleans data resulting in tidy data
+2) tidy.txt > the tidy data file
+3) codebook.md > the codebook describing the variables, code and analysis
+4) README.md > this readme file
 
 Source data:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
