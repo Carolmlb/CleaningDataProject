@@ -12,6 +12,17 @@
   * UCI HAR Dataset/test/subject_test.txt
   * UCI HAR Dataset/test/x_train.txt
   * UCI HAR Dataset/test/y_train.txt
+  
+  ## Variables Used
+* subject - participant variable in the test or train efforts
+* activity - 6 different activity variables
+ *SITTING
+ *STANDING
+ *WALKING
+ *WALKING_DOWNSTAIRS
+ *WALKING_UPSTAIRS
+ *LAYING
+* features - 66 variables with name containing "mean()" or "std()"
 
 ##Processing
 * Used plyr package
