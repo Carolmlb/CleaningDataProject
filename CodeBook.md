@@ -13,7 +13,7 @@
   * UCI HAR Dataset/test/x_train.txt
   * UCI HAR Dataset/test/y_train.txt
   
-  ## Variables Used
+## Variables Used
 * subject - participant variable in the test or train efforts
 * activity - 6 different activity variables
  *SITTING
